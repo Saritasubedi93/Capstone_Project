@@ -33,6 +33,9 @@ This project builds an end‑to‑end cloud data pipeline that ingests raw insur
 - **Query / Metadata**: Amazon Athena, AWS Glue Data Catalog (via external tables)
 - **Data Warehouse**: Amazon Redshift (Spectrum/Parquet COPY)
 - **Language**: Python, SQL
+- **version control**: Git, GitHub
+- **project management**: Jira
+  
 
 ---
 
